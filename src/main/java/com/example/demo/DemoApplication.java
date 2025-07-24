@@ -10,7 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("done");
 		System.out.println("demo-1");
-		System.out.println("new demo-1");
+		System.out.println("new feature2");
 	}
 
 }
